@@ -42,65 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+The global racing video game market is estimated at **$2.57B – $5.17B in 2026** (within the broader **$31.91B open-world gaming market**). The open-world racing sector is **highly concentrated** (winner-take-all dynamics dominated by major gaming conglomerates like Microsoft, EA, Take-Two Interactive, and Ubisoft).
 
-
-- **[Forza Horizon 5](https://forza.net/)**  
-
-  **The definitive open-world racing game** — Mexico's diverse landscapes, 500+ cars, seasonal events, and the best arcade-sim handling. **The reference point for open-world racing** .
-
-
-
-- **[The Crew Motorfest](https://www.ubisoft.com/game/the-crew-motorfest)**  
-
-  **Ubisoft's open-world racing playground** — Hawaii's O'ahu island, diverse vehicle types (cars, bikes, boats, planes), and themed playlists. **The most vehicle-diverse open-world racer** .
-
-
-
-- **[Need for Speed Unbound](https://www.ea.com/games/need-for-speed/need-for-speed-unbound)**  
-
-  **Street racing with graffiti art style** — Lakeshore City, intense police chases, and deep customization. **The best modern street racing game** .
-
-
-
-- **[Burnout Paradise Remastered](https://www.ea.com/games/burnout/burnout-paradise-remastered)**  
-
-  **The classic open-world arcade racer** — Paradise City, crash modes, and stunt runs. **The gold standard for arcade open-world racing** .
-
-
-
-- **[Test Drive Unlimited Solar Crown](https://testdriveunlimited.ubisoft.com/)**  
-
-  **Open-world racing with Hong Kong Island** — luxury cars, social hubs, and exploration. **The most social open-world racer** .
-
-
-
-- **[Midnight Club: Los Angeles](https://www.rockstargames.com/midnightclub)**  
-
-  **The classic open-world street racer** — Los Angeles, illegal racing, and police chases. **Historically significant** .
-
-
-
-- **[Lego 2K Drive](https://lego2kdrive.com/)**  
-
-  **Open-world Lego racing** — Bricklandia, vehicle customization, and family-friendly fun. **The best open-world racer for families** .
-
-
-
-- **[Grid Legends](https://www.ea.com/games/grid/grid-legends)**  
-
-  **Racing with a story mode** — professional circuits and stadium events. **Not open-world** but included for its diverse racing content.
-
-
-
-- **[Fuel](https://www.codemasters.com/)**  
-
-  **The largest open-world racing game ever made** — 5,000 square miles of post-apocalyptic terrain. **Historically significant for map scale** .
-
-
-
-- **[Driver: San Francisco](https://www.ubisoft.com/game/driver-san-francisco)**  
-
-  **The classic open-world driving game** — San Francisco, Shift mechanic, and story-driven missions. **The best open-world driving narrative** .
+| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Forza Horizon 5](https://forza.net/)** | Microsoft (Xbox Game Studios) | ~$3.8 Trillion | $59.99 (or via $9.99/mo Xbox Game Pass) | Free Play Days (periodic 3-day access for Xbox Game Pass subscribers) | **The definitive open-world racing game** — Mexico's diverse landscapes, 500+ cars, seasonal events, and arcade-sim handling. |
+| **[Need for Speed Unbound](https://www.ea.com/games/need-for-speed/need-for-speed-unbound)** | Electronic Arts (EA) | ~$52.93 Billion (Taken Private) | $69.99 | 10-hour free trial via EA Play subscription ($5.99/mo) | **Street racing with graffiti art style** — Lakeshore City, intense police chases, and deep customization. |
+| **[Burnout Paradise Remastered](https://www.ea.com/games/burnout/burnout-paradise-remastered)** | Electronic Arts (EA) | ~$52.93 Billion (Taken Private) | $19.99 | 10-hour free trial via EA Play subscription ($5.99/mo) | **The classic open-world arcade racer** — Paradise City, crash modes, and stunt runs. |
+| **[Grid Legends](https://www.ea.com/games/grid/grid-legends)** | Electronic Arts (Codemasters) | ~$52.93 Billion (Taken Private) | $59.99 | 10-hour free trial via EA Play subscription ($5.99/mo) | **Racing with a story mode** — professional circuits and stadium events (included for diverse racing content). |
+| **[Midnight Club: Los Angeles](https://www.rockstargames.com/midnightclub)** | Take-Two Interactive (Rockstar Games) | ~$37.91 Billion | Delisted ($14.99 physical used market) | 1-hour free trial demo (historical Xbox 360 / PS3 demo) | **The classic open-world street racer** — Los Angeles, illegal street racing, and police chases. |
+| **[Lego 2K Drive](https://lego2kdrive.com/)** | Take-Two Interactive (2K Games) | ~$37.91 Billion | $59.99 | 2-hour free trial via PlayStation Plus / Steam Free Trial events | **Open-world Lego racing** — Bricklandia, vehicle customization, and family-friendly fun. |
+| **[Fuel](https://www.codemasters.com/)** | Take-Two Interactive (Codemasters / EA) | ~$37.91 Billion | Delisted ($9.99 physical used market) | Single-region demo (historical 2009 PC/console demo) | **The largest open-world racing game ever made** — 5,000 square miles of post-apocalyptic terrain. |
+| **[The Crew Motorfest](https://www.ubisoft.com/game/the-crew-motorfest)** | Ubisoft | ~$800 Million (€690M) | $69.99 | 5-hour free trial (full game access with progress carryover) | **Ubisoft's open-world racing playground** — Hawaii's O'ahu island, diverse vehicle types (cars, bikes, boats, planes). |
+| **[Driver: San Francisco](https://www.ubisoft.com/game/driver-san-francisco)** | Ubisoft | ~$800 Million (€690M) | Delisted ($19.99 physical used market) | 1-hour free single-player demo (historical 2011 PC/console demo) | **The classic open-world driving game** — San Francisco, Shift mechanic, and story-driven missions. |
+| **[Test Drive Unlimited Solar Crown](https://testdriveunlimited.ubisoft.com/)** | Nacon / Kylotonn | ~$80 Million (€70M) | $49.99 | 4-hour free trial (limited demo during Steam Next Fest / closed playtests) | **Open-world racing with Hong Kong Island** — luxury cars, social hubs, and exploration. |
 
 
 
