@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Open-World-Racing-Video-Game"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Open-World-Racing-Video-Game?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Open-World-Racing-Video-Game"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Open-World-Racing-Video-Game?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Open-World-Racing-Video-Game/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Open-World-Racing-Video-Game?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Open-World-Racing-Video-Game/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Open-World-Racing-Video-Game?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,7 +59,7 @@ The global racing video game market is estimated at **$2.57B – $5.17B in 2026*
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Godot Engine](https://github.com/godotengine/godot)** [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
   **Multi-platform 2D and 3D game engine**, MIT licensed. Features built-in 3D physics, vehicle body nodes (`VehicleBody3D`), and terrain tools suited for open-world driving game development. 🎮
@@ -120,7 +120,7 @@ Contributions are welcome! Follow these steps to submit new open-world racing ga
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
