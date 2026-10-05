@@ -59,7 +59,7 @@ The global racing video game market is estimated at **$2.57B – $5.17B in 2026*
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Godot Engine](https://github.com/godotengine/godot)** [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
   **Multi-platform 2D and 3D game engine**, MIT licensed. Features built-in 3D physics, vehicle body nodes (`VehicleBody3D`), and terrain tools suited for open-world driving game development. 🎮
